@@ -9,7 +9,9 @@ about:
       href: mailto:vjeppers.cpp@gmail.com
 ---
 
-Hello! I am a third-year undergraduate student at California State Polytechnic University, Pomona, where I am majoring in environmental biology with an emphasis on ecology, conservation, and biodiversity.
+## Hello! 
+
+I am a third-year undergraduate student at California State Polytechnic University, Pomona, where I am majoring in environmental biology with an emphasis on ecology, conservation, and biodiversity.
 
 I have been a part of the Scordato Lab since the spring semester of 2024. During my time in the lab I have helped develop a new analysis protocol to measure variation in a plumage trait involved in signaling behavior of birds using ImageJ, learned how to filter and align genomic data using bwa and fastqc, organize and input field data, and conduct DNA extractions for genomic analysis.
 
