@@ -1,0 +1,5 @@
+"0","penguin_counts <- penguins |>"
+"0","  mutate(year = as.character(year)) |>"
+"0","  group_by(species, island, sex, year) |>"
+"0","  summarise(n = n(), .groups = 'drop')"
+"0","penguin_counts"

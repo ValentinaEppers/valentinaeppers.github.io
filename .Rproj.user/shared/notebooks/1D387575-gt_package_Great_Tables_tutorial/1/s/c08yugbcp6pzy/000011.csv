@@ -1,0 +1,8 @@
+"0","exibble |> "
+"0","  select(num) |>"
+"0","  gt() |> "
+"0","  opt_stylize(style = 3) |> "
+"0","  fmt_number("
+"0","    columns = 'num',"
+"0","    decimals = 1"
+"0","  )"

@@ -1,0 +1,5 @@
+"0","#| message: false"
+"0","#| warning: false"
+"0","penguins <- palmerpenguins::penguins |> "
+"0","  filter(!is.na(sex))"
+"0","penguins"

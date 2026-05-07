@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: "Valentina Eppers"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: Experience.qmd
+        text: Experience
+      - href: CV.qmd
+        text: CV
+
+format:
+  html:
+    theme: solar
+    css: styles.css
+    toc: true
+
+editor: visual
+
